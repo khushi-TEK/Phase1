@@ -1,0 +1,8 @@
+C:\Users\kranganatha\source\repos\Phase1\Phase1\bin\Debug\Phase1.exe.config
+C:\Users\kranganatha\source\repos\Phase1\Phase1\bin\Debug\Phase1.exe
+C:\Users\kranganatha\source\repos\Phase1\Phase1\bin\Debug\Phase1.pdb
+C:\Users\kranganatha\source\repos\Phase1\Phase1\obj\Debug\Phase1.csproj.AssemblyReference.cache
+C:\Users\kranganatha\source\repos\Phase1\Phase1\obj\Debug\Phase1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kranganatha\source\repos\Phase1\Phase1\obj\Debug\Phase1.csproj.CoreCompileInputs.cache
+C:\Users\kranganatha\source\repos\Phase1\Phase1\obj\Debug\Phase1.exe
+C:\Users\kranganatha\source\repos\Phase1\Phase1\obj\Debug\Phase1.pdb
